@@ -83,7 +83,7 @@ function highScores() {
   console.log('Checkout the top performers : ')
   topPerformers.map(ele => console.log(ele.name + " : " + ele.score))
   console.log('---------------------------------------')
-  console.log('Wanna be one ? send your score screenshot.')
+  console.log('Wanna be one ? send your score screenshot to srig14@zohomail.com')
 }
 
 highScores()
